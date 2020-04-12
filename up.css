@@ -4,3 +4,13 @@ h1{
 #trast{
   color: blue;
 }
+#trist{
+  background-color: hsla(100, 20%, 40%, 0.5);
+  color: red;
+
+}
+.alert{
+  border-color: hsl(120, 70%, 40%);
+  color: hsla(300, 80%, 90%);
+  background-color: hsla(120, 90%, 90%);
+}
