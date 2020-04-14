@@ -14,3 +14,12 @@ h1{
   color: hsla(300, 80%, 90%);
   background-color: hsla(120, 90%, 90%);
 }
+#boxmusic{
+position:inherit;
+background-position: center;
+background-color:hsla(11, 35%,20%);
+
+}
+audio{
+background-color: red;
+}
