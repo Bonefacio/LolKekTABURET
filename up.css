@@ -1,12 +1,18 @@
 body{
   background:url(back.jpg) no-repeat;
+
 }
 h1{
-  color: red;
+  color: black;
   text-align: center;
-  opacity: 0.3}
+  opacity: 0.3;
+  text-shadow: 3px 3px 2px black, 0 0 1em red;
+  font-weight: bolder ;
+  font-style: italic;
+}
 #trast{
   color: blue;
+
 }
 #trist{
   -background-color: hsla(100, 20%, 40%, 0.5);
@@ -20,12 +26,21 @@ h1{
 
 }
 #boxmusic{
-position:inherit;
-background-position: center;
+text-align: center;
+border-radius: 22px;
+background-color: #000;
+margin-top: 600px;
 
+  }
 
 }
 audio{
 background-color: red;
+
+}
+#painfail{
+  cursor: pointer;
+  color:#ff6600;
+   font-weight:bold;
 
 }
