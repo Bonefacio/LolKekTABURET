@@ -1,0 +1,17 @@
+#reddit{
+  color:red;
+  position: relative;
+  font-family:cursive;
+  font-size: 170%;
+  background-color: blue;
+}
+#bokovick{
+  float: right;
+  display:block;
+  background: grey;
+  padding: 30px;
+  width: 300px;
+}
+#doomer{
+color:#691616;
+}
